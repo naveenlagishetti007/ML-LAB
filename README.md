@@ -29,7 +29,7 @@ Ml_Lab/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TharunKorivi/Ml_Lab.git
+   git clone https://github.com/naveenlagishetti/Ml_Lab.git
    cd Ml_Lab
    ```
 
